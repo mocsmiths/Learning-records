@@ -34,3 +34,4 @@ WEB前端开发Github测试</br>
 9.15重新配置基础程序</br>
 9.17重温HTML,CSS,JS基础知识</br>
 9.18查阅vue官方文档</br>
+9.19理解javascript运行环境、v8引擎等底层基础知识</br>
