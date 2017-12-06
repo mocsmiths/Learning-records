@@ -554,7 +554,7 @@ next(new Error('123')) 和 next('123') 有什么区别？由于 next 最终将�
 
 ### 讨论 MongoDB API
 PostModel.find({}, {}, callback) 和 PostModel.find({}, callback)，两者的执行结果其实是相同的。设计得好的 API，就能够兼顾各种情况。
-```
+```js
 function(req, res) {
     if (err) { res.json { err: err }};
 }
